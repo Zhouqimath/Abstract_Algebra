@@ -7,7 +7,7 @@
 
 \begin{document}
 \begin{CJK}{GBK}{song}
-\title{抽象代数重要定理习题（\uppercase\expandafter{\romannumeral1}）}
+\title{抽象代数重要定理习题（\uppercase\expandafter{\romannumeral1}）\footnote{参考孙智伟《近世代数》}}
 \author{周歧}
 \maketitle
 
