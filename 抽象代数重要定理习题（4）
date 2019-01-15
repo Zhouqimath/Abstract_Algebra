@@ -7,7 +7,7 @@
 
 \begin{document}
 \begin{CJK}{GBK}{song}
-\title{抽象代数重要定理习题（\uppercase\expandafter{\romannumeral1}）\footnote{参考孙智伟《近世代数》}}
+\title{抽象代数重要定理习题（\uppercase\expandafter{\romannumeral4}）\footnote{参考孙智伟《近世代数》}}
 \author{周歧}
 \maketitle
 
@@ -16,10 +16,10 @@
   \item 设$H,K\trianglelefteq G$，则$[H,K]\trianglelefteq G$，特别地$H\trianglelefteq G\Rightarrow H'\trianglelefteq G$。
   \item 设$G$为群，则$G'$是使得$G/h$为\emph{Abel}群的$G$的最小的正规子群$H$。
   \item 设$G$为群，$n\in \mathbb{N}={0,1,\cdot}$，则$G^{n}\trianglelefteq G,H\trianglelefteq G$时，$(G/H)^{(n)}=G^{(n)}H/ H$。
-  \item 群$G$可解$\Leftrightarrow \exists n\in\mathbb{N},G^{(n)}={e}$。
+  \item 群$G$可解$\Leftrightarrow \exists n\in\mathbb{N},G^{(n)}=\{e\}$。
   \item 仅有的可解单群是素数阶循环群。
-  \item 设$p$为素数，$G$为$p^{n}$阶群，则$G$有$p^{i}$阶正规子群$H_{i}(i=0,1,\cdot,n)$，使$H_{0}={e}\vartriangleleft H_{1}\vartriangleleft \cdot \vartriangleleft H_{n}=G$。
-  \item 设$G$为有限群，则$G$可解$\Leftrightarrow$存在正规群列$G_{0}={e}\vartriangleleft G_{1}\vartriangleleft \cdot \vartriangleleft G_{n}=G$使得$G_{1}/G_{0},\cdot,G_{n}/G_{n-1}$为素数阶循环群。
+  \item 设$p$为素数，$G$为$p^{n}$阶群，则$G$有$p^{i}$阶正规子群$H_{i}(i=0,1,\cdots,n)$，使$H_{0}={e}\vartriangleleft H_{1}\vartriangleleft \cdots \vartriangleleft H_{n}=G$。
+  \item 设$G$为有限群，则$G$可解$\Leftrightarrow$存在正规群列$G_{0}={e}\vartriangleleft G_{1}\vartriangleleft \cdots \vartriangleleft G_{n}=G$使得$G_{1}/G_{0},\cdots,G_{n}/G_{n-1}$为素数阶循环群。
   \item (1)可解群的子群与商群为可解群，\\
         (2)设$H\trianglelefteq G$，若$H$与$G/H$都可解，则$G$可解，\\
         (3)设$H\trianglelefteq G,K\trianglelefteq G$，则$G/ (H\cap K)$可解$\Leftrightarrow G/H$且$G/K$可解。
